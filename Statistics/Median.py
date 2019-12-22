@@ -1,6 +1,7 @@
 from Calculator.Addition import addition
 from Calculator.Division import division
 
+
 def median(numbers):
     n = len(numbers)
     numbers.sort()
